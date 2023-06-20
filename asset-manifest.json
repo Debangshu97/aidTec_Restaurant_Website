@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/aidTec-react-website/static/css/main.c08acc4b.css",
-    "main.js": "/aidTec-react-website/static/js/main.b0cdb4c4.js",
-    "static/media/specialMenu7.jpg": "/aidTec-react-website/static/media/specialMenu7.c184889ca3d5bbcc7ffa.jpg",
-    "static/media/specialMenu5.jpg": "/aidTec-react-website/static/media/specialMenu5.25134bce0bbd81be7e1e.jpg",
-    "static/media/menubg.jpg": "/aidTec-react-website/static/media/menubg.9921da2c1fba03d2f7ec.jpg",
-    "static/media/specialMenu3.jpg": "/aidTec-react-website/static/media/specialMenu3.ef35413ecb9d7c5e7df6.jpg",
-    "static/media/restaurant.jpg": "/aidTec-react-website/static/media/restaurant.5bf16cc9f487f393fa76.jpg",
-    "static/media/specialMenu6.jpg": "/aidTec-react-website/static/media/specialMenu6.bab78520961d16ae3357.jpg",
-    "static/media/specialMenu4.jpg": "/aidTec-react-website/static/media/specialMenu4.a8ab64a861b5d23aea87.jpg",
-    "static/media/specialMenu1.jpg": "/aidTec-react-website/static/media/specialMenu1.c940f421e5ce7a2b2c0d.jpg",
-    "static/media/menuherobg.jpg": "/aidTec-react-website/static/media/menuherobg.21724be9f078411cc619.jpg",
-    "static/media/hero.jpg": "/aidTec-react-website/static/media/hero.9f1314ed0d98f07bd62d.jpg",
-    "static/media/specialMenu2.jpg": "/aidTec-react-website/static/media/specialMenu2.30803ae6ca258ec506bf.jpg",
-    "static/media/logo.svg": "/aidTec-react-website/static/media/logo.2287c9d27126028a77560b23a344c8e1.svg",
-    "index.html": "/aidTec-react-website/index.html",
-    "main.c08acc4b.css.map": "/aidTec-react-website/static/css/main.c08acc4b.css.map",
-    "main.b0cdb4c4.js.map": "/aidTec-react-website/static/js/main.b0cdb4c4.js.map"
+    "main.css": "/aidTec_Restaurant_Website/static/css/main.0a705627.css",
+    "main.js": "/aidTec_Restaurant_Website/static/js/main.d9e6390c.js",
+    "static/media/specialMenu7.jpg": "/aidTec_Restaurant_Website/static/media/specialMenu7.c184889ca3d5bbcc7ffa.jpg",
+    "static/media/specialMenu5.jpg": "/aidTec_Restaurant_Website/static/media/specialMenu5.25134bce0bbd81be7e1e.jpg",
+    "static/media/menubg.jpg": "/aidTec_Restaurant_Website/static/media/menubg.9921da2c1fba03d2f7ec.jpg",
+    "static/media/specialMenu3.jpg": "/aidTec_Restaurant_Website/static/media/specialMenu3.ef35413ecb9d7c5e7df6.jpg",
+    "static/media/restaurant.jpg": "/aidTec_Restaurant_Website/static/media/restaurant.5bf16cc9f487f393fa76.jpg",
+    "static/media/specialMenu6.jpg": "/aidTec_Restaurant_Website/static/media/specialMenu6.bab78520961d16ae3357.jpg",
+    "static/media/specialMenu4.jpg": "/aidTec_Restaurant_Website/static/media/specialMenu4.a8ab64a861b5d23aea87.jpg",
+    "static/media/specialMenu1.jpg": "/aidTec_Restaurant_Website/static/media/specialMenu1.c940f421e5ce7a2b2c0d.jpg",
+    "static/media/menuherobg.jpg": "/aidTec_Restaurant_Website/static/media/menuherobg.21724be9f078411cc619.jpg",
+    "static/media/hero.jpg": "/aidTec_Restaurant_Website/static/media/hero.9f1314ed0d98f07bd62d.jpg",
+    "static/media/specialMenu2.jpg": "/aidTec_Restaurant_Website/static/media/specialMenu2.30803ae6ca258ec506bf.jpg",
+    "static/media/logo.svg": "/aidTec_Restaurant_Website/static/media/logo.2287c9d27126028a77560b23a344c8e1.svg",
+    "index.html": "/aidTec_Restaurant_Website/index.html",
+    "main.0a705627.css.map": "/aidTec_Restaurant_Website/static/css/main.0a705627.css.map",
+    "main.d9e6390c.js.map": "/aidTec_Restaurant_Website/static/js/main.d9e6390c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c08acc4b.css",
-    "static/js/main.b0cdb4c4.js"
+    "static/css/main.0a705627.css",
+    "static/js/main.d9e6390c.js"
   ]
 }
